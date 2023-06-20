@@ -1,0 +1,6 @@
+C:\Users\fossvini\source\repos\strings\ex5\bin\Debug\ex5.exe.config
+C:\Users\fossvini\source\repos\strings\ex5\bin\Debug\ex5.exe
+C:\Users\fossvini\source\repos\strings\ex5\bin\Debug\ex5.pdb
+C:\Users\fossvini\source\repos\strings\ex5\obj\Debug\ex5.csproj.CoreCompileInputs.cache
+C:\Users\fossvini\source\repos\strings\ex5\obj\Debug\ex5.exe
+C:\Users\fossvini\source\repos\strings\ex5\obj\Debug\ex5.pdb

@@ -1,0 +1,6 @@
+C:\Users\fossvini\source\repos\strings\string3\bin\Debug\string3.exe.config
+C:\Users\fossvini\source\repos\strings\string3\bin\Debug\string3.exe
+C:\Users\fossvini\source\repos\strings\string3\bin\Debug\string3.pdb
+C:\Users\fossvini\source\repos\strings\string3\obj\Debug\string3.csproj.CoreCompileInputs.cache
+C:\Users\fossvini\source\repos\strings\string3\obj\Debug\string3.exe
+C:\Users\fossvini\source\repos\strings\string3\obj\Debug\string3.pdb

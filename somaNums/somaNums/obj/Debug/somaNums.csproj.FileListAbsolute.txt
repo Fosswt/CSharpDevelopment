@@ -1,0 +1,7 @@
+C:\Users\fossvini\source\repos\somaNums\somaNums\bin\Debug\somaNums.exe.config
+C:\Users\fossvini\source\repos\somaNums\somaNums\bin\Debug\somaNums.exe
+C:\Users\fossvini\source\repos\somaNums\somaNums\bin\Debug\somaNums.pdb
+C:\Users\fossvini\source\repos\somaNums\somaNums\obj\Debug\somaNums.csprojAssemblyReference.cache
+C:\Users\fossvini\source\repos\somaNums\somaNums\obj\Debug\somaNums.csproj.CoreCompileInputs.cache
+C:\Users\fossvini\source\repos\somaNums\somaNums\obj\Debug\somaNums.exe
+C:\Users\fossvini\source\repos\somaNums\somaNums\obj\Debug\somaNums.pdb

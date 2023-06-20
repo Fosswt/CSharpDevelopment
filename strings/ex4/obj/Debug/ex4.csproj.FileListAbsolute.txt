@@ -1,0 +1,6 @@
+C:\Users\fossvini\source\repos\strings\ex4\bin\Debug\ex4.exe.config
+C:\Users\fossvini\source\repos\strings\ex4\bin\Debug\ex4.exe
+C:\Users\fossvini\source\repos\strings\ex4\bin\Debug\ex4.pdb
+C:\Users\fossvini\source\repos\strings\ex4\obj\Debug\ex4.csproj.CoreCompileInputs.cache
+C:\Users\fossvini\source\repos\strings\ex4\obj\Debug\ex4.exe
+C:\Users\fossvini\source\repos\strings\ex4\obj\Debug\ex4.pdb

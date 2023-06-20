@@ -1,0 +1,6 @@
+C:\Users\fossvini\source\repos\ex2.1\ex2.6\bin\Debug\ex2.6.exe.config
+C:\Users\fossvini\source\repos\ex2.1\ex2.6\bin\Debug\ex2.6.exe
+C:\Users\fossvini\source\repos\ex2.1\ex2.6\bin\Debug\ex2.6.pdb
+C:\Users\fossvini\source\repos\ex2.1\ex2.6\obj\Debug\ex2.6.csproj.CoreCompileInputs.cache
+C:\Users\fossvini\source\repos\ex2.1\ex2.6\obj\Debug\ex2.6.exe
+C:\Users\fossvini\source\repos\ex2.1\ex2.6\obj\Debug\ex2.6.pdb
